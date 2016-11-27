@@ -1,0 +1,12 @@
+0,WHO TEACHES *,*,*,Mr/Mrs <map name="subject2teacher"><star/></map>,teaches.aiml
+0,WHO IS THE TEACHER OF *,*,*,<srai>Who teaches <star/></srai>,teaches.aiml
+0,WHO IS THE TEACHER OF,*,*,Which subject?,teaches.aiml
+0,WHO TEACHES,*,*,Which subject?,teaches.aiml
+0,* IS TAUGHT BY,*,*,Mr/Mrs <map name="subject2teacher"><star/></map>,teaches.aiml
+0,* IS TAUGHT BY WHICH PROFESSOR,*,*,Mr/Mrs <map name="subject2teacher"><star/></map>,teaches.aiml
+0,* IS TAUGHT BY WHICH TEACHER,*,*,Mr/Mrs <map name="subject2teacher"><star/></map>,teaches.aiml
+0,* SUBJECT IS TAUGHT BY,*,*,Mr/Mrs <map name="subject2teacher"><star/></map>,teaches.aiml
+0,THE SUBJECT * IS TAUGHT BY,*,*,Mr/Mrs <map name="subject2teacher"><star/></map>,teaches.aiml
+0,SUBJECT * IS TAUGHT BY,*,*,Mr/Mrs <map name="subject2teacher"><star/></map>,teaches.aiml
+0,WHO TEACHES THE SUBJECT *,*,*,Mr/Mrs <map name="subject2teacher"><star/></map>,teaches.aiml
+0,WHO TEACHES THE SUBJECT,*,*,Which subject?,teaches.aiml

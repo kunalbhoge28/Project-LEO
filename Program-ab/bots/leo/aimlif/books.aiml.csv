@@ -1,0 +1,21 @@
+0,WHICH BOOK SHOULD BE REFERRED FOR *,*,*,<map name="subject2book"><star/></map>,books.aiml
+0,WHAT IS THE REFERENCE BOOK FOR *,*,*,<map name="subject2book"><star/></map>,books.aiml
+0,WHAT BOOK SHOULD I USE FOR *,*,*,<map name="subject2book"><star/></map>,books.aiml
+0,WHAT IS THE RECOMMENDED BOOK FOR *,*,*,<map name="subject2book"><star/></map>,books.aiml
+0,WHAT IS THE RECOMMENDED BOOK FOR * BY MU,*,*,<map name="subject2book"><star/></map>,books.aiml
+0,WHAT IS THE RECOMMENDED BOOK FOR * BY MUMBAI UNIVERSITY,*,*,<map name="subject2book"><star/></map>,books.aiml
+0,WHICH TEXTBOOK SHOULD BE REFERRED FOR *,*,*,<map name="subject2book"><star/></map>,books.aiml
+0,TEXTBOOK BOOK FOR *,*,*,<map name="subject2book"><star/></map>,books.aiml
+0,WHAT TEXTBOOK SHOULD I USE FOR *,*,*,<map name="subject2book"><star/></map>,books.aiml
+0,WHAT IS A GOOD BOOK TO STUDY *,*,*,<map name="subject2book"><star/></map>,books.aiml
+0,WHAT IS THE TEXTBOOK BOOK FOR *,*,*,<map name="subject2book"><star/></map>,books.aiml
+0,WHAT IS THE TEXTBOOK BOOK FOR * BY MU,*,*,<map name="subject2book"><star/></map>,books.aiml
+0,WHAT IS THE TEXTBOOK BOOK FOR * BY MUMBAI UNIVERSITY,*,*,<map name="subject2book"><star/></map>,books.aiml
+0,BOOK FOR *,*,*,<map name="subject2book"><star/></map>,books.aiml
+0,TEXTBOOK FOR *,*,*,<map name="subject2book"><star/></map>,books.aiml
+0,REFERENCE BOOK FOR *,*,*,<map name="subject2book"><star/></map>,books.aiml
+0,* TEXTBOOK FOR *,*,*,<map name="subject2book"><star index="2"/></map>,books.aiml
+0,* RECOMMENDED FOR *,*,*,<map name="subject2book"><star index="2"/></map>,books.aiml
+0,* REFERENCE BOOK FOR *,*,*,<map name="subject2book"><star index="2"/></map>,books.aiml
+0,*  REFERENCE FOR *,*,*,<map name="subject2book"><star index="2"/></map>,books.aiml
+0,* TEXTBOOK * FOR *,*,*,<map name="subject2book"><star index="3"/></map>,books.aiml

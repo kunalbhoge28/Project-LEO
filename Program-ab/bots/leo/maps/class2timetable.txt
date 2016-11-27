@@ -1,0 +1,21 @@
+d10monday:WT CN Maths4
+d10tuesday:ITC CN WT
+d10wednesday:CN lab Maths4
+d10thursday:Maths4 ITC lab
+d10friday:AT ITC WT
+d10saturday:AT lab ITC WT
+d10:monday-WT CN Maths4 tuesday-ITC CN WT wednesday-CN lab Maths4 thursday-Maths4 ITC lab friday-AT ITC WT saturday-AT lab ITC WT
+d15monday:DMBI AIT SE
+d15tuesday:DS AIT lab
+d15wednesday:AIT DMBI lab
+d15thursday:SE DMBI
+d15friday:DS lab SE
+d15saturday:DMBI lab AIT
+d15:monday-DMBI AIT SE tuesday-DS AIT lab wednesday-AIT DMBI lab thursday-SE DMBI friday-DS lab SE saturday-DMBI lab AIT
+d20monday:SNMR BDA CSM
+d20tuesday:BDA Lab SNMR CSM
+d20wednesday:SC/STQA CSM lab
+d20thursday:SNMR SC/STQA
+d20friday:PROJECT DAY
+d20saturday:BDA SC/STQA SNMR
+d20:monday-SNMR BDA CSM tuesday-BDA Lab SNMR CSM wednesday-SC/STQA CSM lab thursday-SNMR SC/STQA friday-PROJECT DAY saturday-BDA SC/STQA SNMR

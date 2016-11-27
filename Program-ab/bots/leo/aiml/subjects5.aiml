@@ -1,0 +1,36 @@
+
+<aiml>
+	
+	
+	<category><pattern>MY FAVORITE SUBJECT IS <set>subjectfive</set></pattern>
+	<template>
+	<random><li><set name="favoritesubject"><formal><star/></formal></set> is a nice subject. It is in the fifth semester , isn't it?
+	<think><set name="it"><set name="topic"><star/></set></set></think></li>
+	<li><set name="favoritesubject"><formal><star/></formal></set> is a very interesting subject.
+	<think><set name="it"><set name="topic"><star/></set></set></think></li></random>
+	</template>
+	</category>
+	
+	<category>
+    	<pattern><set>subjectfive</set> is an interesting subject</pattern>
+    	<template>
+        <srai>MY FAVORITE SUBJECT IS <set>subjectfive</set></srai>
+    	</template>
+	</category>
+	
+	<category>
+    	<pattern>I like <set>subjectfive</set> </pattern>
+    	<template>
+        <srai>MY FAVORITE SUBJECT IS <set>subjectfive</set></srai>
+    	</template>
+	</category>
+
+
+
+	<category><pattern>MY FAVORITE SUBJECT IS *</pattern>
+	<template>Sorry , I don't recognize <star/> as a subject of the Information Technology Department .</template>
+	</category>
+
+	
+
+</aiml>

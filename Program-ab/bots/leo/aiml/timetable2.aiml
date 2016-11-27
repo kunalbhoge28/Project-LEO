@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+	
+<aiml>
+	<category>
+		<pattern>* timetable</pattern>
+		<template>can you tell me which class</template> 
+	</category>
+        <category>
+		<pattern>d20</pattern>
+                <that>can you tell me which class</that>
+		<template><map name='class2timetable'>d20</map></template> 
+	</category>
+        <category>
+		<pattern>d10</pattern>
+                <that>can you tell me which class</that>
+		<template><map name='class2timetable'>d10</map></template> 
+        </category>
+        <category>
+		<pattern>d15</pattern>
+                <that>can you tell me which class</that>
+		<template><map name='class2timetable'>d15</map></template> 
+	</category>
+	<category>
+		<pattern>* timetable of *</pattern>
+                
+                 <template>
+                  <think> 
+                     <set name="class"><star index="2"/></set>
+                 </think>
+                     Do you want the "master" timetable or else specify a day 
+                 </template> 
+	</category>
+        <category>
+		<pattern>*</pattern>
+                <that>Do you want the "master" timetable or else specify a day</that>
+		<template><map name='class2timetable'><get name="class"/><star index="1"/></map></template> 
+	</category>
+         <category>
+		<pattern>MASTER</pattern>
+                <that>Do you want the "master" timetable or else specify a day</that>
+		<template><map name='class2timetable'><get name="class"/></map></template> 
+	</category>
+        <category>
+		<pattern>* MASTER *</pattern>
+                <that>Do you want the "master" timetable or else specify a day</that>
+		<template><map name='class2timetable'><get name="class"/></map></template> 
+	</category>
+	
+
+</aiml>

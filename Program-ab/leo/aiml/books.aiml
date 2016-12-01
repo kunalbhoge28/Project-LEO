@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+	<category>
+		<pattern>Which book should be referred for *</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	
+	<category>
+		<pattern>What is the reference book for *</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	
+	<category>
+		<pattern>reference book for *</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	<category>
+		<pattern>reference books for *</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	
+	<category>
+		<pattern>What book should I use for *</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	<category>
+		<pattern>What books should I use for *</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	
+	<category>
+		<pattern>What is a good book to study *</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	<category>
+		<pattern>What is the recommended book for *</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	
+	<category>
+		<pattern>What is the recommended book for * by MU</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	<category>
+		<pattern>What is the recommended books for * by MU</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	
+	<category>
+		<pattern>What is the recommended book for * by Mumbai University</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	<category>
+		<pattern>What is the recommended books for * by Mumbai University</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+
+
+	<!---->
+	<category>
+		<pattern>Which textbook should be referred for *</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	<category>
+		<pattern>Which textbooks should be referred for *</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	
+	
+	<category>
+		<pattern>What is the textbook for *</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	
+	<category>
+		<pattern>textbook for *</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	<category>
+		<pattern>textbooks for *</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	
+	<category>
+		<pattern>What textbook should I use for *</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	<category>
+		<pattern>What is a good book to study *</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	<category>
+		<pattern>What is the textbook book for *</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	
+	<category>
+		<pattern>What is the textbook book for * by MU</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	<category>
+		<pattern>What is the textbook book for * by Mumbai University</pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+
+	<category>
+		<pattern>book for * </pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+
+	<category>
+		<pattern>books for * </pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+
+	<category>
+		<pattern>textbook for * </pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+	<category>
+		<pattern>textbooks for * </pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>
+
+	<category>
+		<pattern>reference book for * </pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>		
+
+	<category>
+		<pattern>reference books for * </pattern>
+		<template> <map name='subject2book'><star/></map></template> 
+	</category>		
+
+	<category>
+		<pattern>* reference book for * </pattern>
+		<template> <map name='subject2book'><star index="2"/></map></template> 
+	</category>	
+	
+	<category>
+		<pattern>* reference books for * </pattern>
+		<template> <map name='subject2book'><star index="2"/></map></template> 
+	</category>	
+	
+	<category>
+		<pattern>* textbook for * </pattern>
+		<template> <map name='subject2book'><star index="2"/></map></template> 
+	</category>	
+	
+	<category>
+		<pattern>* textbooks for * </pattern>
+		<template> <map name='subject2book'><star index="2"/></map></template> 
+	</category>	
+	
+	<category>
+		<pattern>* textbook for * </pattern>
+		<template> <map name='subject2book'><star index="2"/></map></template> 
+	</category>	
+	
+	<category>
+		<pattern>* textbooks for * </pattern>
+		<template> <map name='subject2book'><star index="2"/></map></template> 
+	</category>	
+	
+
+	<category>
+		<pattern>* recommended for * </pattern>
+		<template> <map name='subject2book'><star index="2"/></map></template> 
+	</category>
+
+	<category>
+		<pattern>* reference book for * </pattern>
+		<template> <map name='subject2book'><star index="2"/></map></template> 
+	</category>	
+	<category>
+		<pattern>* reference books for * </pattern>
+		<template> <map name='subject2book'><star index="2"/></map></template> 
+	</category>	
+	
+
+	<category>
+		<pattern>*  reference for * </pattern>
+		<template> <map name='subject2book'><star index="2"/></map></template> 
+	</category>	
+		
+	
+	<category>
+		<pattern>* textbook * for * </pattern>
+		<template> <map name='subject2book'><star index="3"/></map></template> 
+	</category>
+		
+	
+
+</aiml>

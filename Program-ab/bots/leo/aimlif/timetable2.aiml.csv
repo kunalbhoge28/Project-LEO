@@ -1,0 +1,8 @@
+0,* TIMETABLE,*,*,can you tell me which class,timetable2.aiml
+0,D20,CAN YOU TELL ME WHICH CLASS,*,<map name="class2timetable">d20</map>,timetable2.aiml
+0,D10,CAN YOU TELL ME WHICH CLASS,*,<map name="class2timetable">d10</map>,timetable2.aiml
+0,D15,CAN YOU TELL ME WHICH CLASS,*,<map name="class2timetable">d15</map>,timetable2.aiml
+0,* TIMETABLE OF *,*,*,<think> #Newline                     <set name="class"><star index="2"/></set>#Newline                 </think>#Newline                     Do you want the "master" timetable or else specify a day,timetable2.aiml
+0,*,DO YOU WANT THE "MASTER" TIMETABLE OR ELSE SPECIFY A DAY,*,<map name="class2timetable"><get name="class"/><star index="1"/></map>,timetable2.aiml
+0,MASTER,DO YOU WANT THE "MASTER" TIMETABLE OR ELSE SPECIFY A DAY,*,<map name="class2timetable"><get name="class"/></map>,timetable2.aiml
+0,* MASTER *,DO YOU WANT THE "MASTER" TIMETABLE OR ELSE SPECIFY A DAY,*,<map name="class2timetable"><get name="class"/></map>,timetable2.aiml

@@ -1,0 +1,19 @@
+<aiml>
+<category>
+<pattern>* encapsulation</pattern>
+<template>Encapsulation is a concept in Object Oriented Programming for combining properties and methods in a single unit.Encapsulation helps programmers to follow a modular approach for software development as each object has its own set of methods and variables and serves its functions independent of other objects. Encapsulation also serves data hiding purpose.</template>
+</category>
+<category>
+<pattern>* static methods *</pattern>
+<template> When there is a requirement to share a method or a variable between multiple objects of a class instead of creating separate copies for each object, we use static keyword to make a method or variable shared for all objects.</template>
+</category>
+<category>
+<pattern>What are access specifiers</pattern>
+<template>In Java, access specifiers are the keywords used before a class name which defines the access scope. The types of access specifiers for classes are:1. Public : Class,Method,Field is accessible from anywhere.2. Protected:Method,Field can be accessed from the same class to which they belong or from the sub-classes,and from the class of same package,but not from outside.3. Default: Method,Field,class can be accessed only from the same package and not from outside of it’s native package.4. Private: Method,Field can be accessed from the same class to which they belong.</template>
+</category>
+<category>
+<pattern>* singleton class *</pattern>
+<template>A singleton class in java can have only one instance and hence all its methods and variables belong to just one instance. Singleton class concept is useful for the situations when there is a need to limit the number of objects for a class.The best example of singleton usage scenario is when there is a limit of having only one connection to a database due to some driver limitations or because of any licensing issues.</template>
+</category>
+	
+</aiml>

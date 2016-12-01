@@ -1,0 +1,110 @@
+Neural Networks:S. N. Sivanandam and S. N. Deepa, “Principles of Soft Computing,” 2nd ed. Wiley India
+Soft Computing:S. N. Sivanandam and S. N. Deepa, “Principles of Soft Computing,” 2nd ed. Wiley India
+Software Testing:Software Testing Principles and Practices Naresh Chauhan Oxford Higher Education 
+Software Testing and Quality Assurance:Software Testing Principles and Practices Naresh Chauhan Oxford Higher Education 
+STQA:Software Testing Principles and Practices Naresh Chauhan Oxford Higher Education 
+SC:S. N. Sivanandam and S. N. Deepa, “Principles of Soft Computing,” 2nd ed. Wiley India
+BDA:Anand Rajaraman and Jeff Ullman “Mining of Massive Datasets”, Cambridge University Press
+Big Data Analytics:Anand Rajaraman and Jeff Ullman “Mining of Massive Datasets”, Cambridge University Press
+CSM:System Modeling & Analysis; Averill M Law, 4th Edition TMH
+Computer Simulation and Management:System Modeling & Analysis; Averill M Law, 4th Edition TMH.
+SNMR:EMC Educational Services, “Information Storage and Management”, wiley India
+Storage Networks:EMC Educational Services, “Information Storage and Management”, wiley India
+Storage Network Management and Retrieval:EMC Educational Services, “Information Storage and Management”, wiley India
+Software Engineering:“Software Engineering : APractitioner‟s Approach” by Roger Pressman Sixth Edition
+SE:“Software Engineering : APractitioner‟s Approach” by Roger Pressman Sixth Edition
+Distributed Systems:Andrew S. Tanenbaum & Maarten van Steen “ Distributed Systems : Principles and paradigms”
+DS:Andrew S. Tanenbaum & Maarten van Steen “ Distributed Systems : Principles and paradigms”
+System and Web Security:Computer Security Principles and Practice, by William Stallings, Pearson Education
+SWS:Computer Security Principles and Practice, by William Stallings, Pearson Education
+Data Mining and Business Intelligence:Han, Kamber, "Data Mining Concepts and Techniques", Morgan Kaufmann 3nd Edition
+DMBI:Han, Kamber, "Data Mining Concepts and Techniques", Morgan Kaufmann 3nd Edition
+Advance Internet Technology:Professional Web 2.0 Programming WROX press
+Advance Internet Technologies:Professional Web 2.0 Programming WROX press
+AIT:Professional Web 2.0 Programming WROX press
+Applied Mathematics IV:G V Kumbhojkar / J N Wartikar
+Applied Mathematics - IV:G V Kumbhojkar / J N Wartikar
+Applied Mathematics 4:G V Kumbhojkar / J N Wartikar
+Applied Mathematics - 4:G V Kumbhojkar / J N Wartikar
+Maths 4:G V Kumbhojkar / J N WartikarG V Kumbhojkar / J N Wartikar
+Maths - 4:G V Kumbhojkar / J N Wartikar
+Maths IV:G V Kumbhojkar / J N Wartikar
+Maths -IV:G V Kumbhojkar / J N Wartikar
+M4:G V Kumbhojkar / J N Wartikar
+Applied Maths 4:G V Kumbhojkar / J N Wartikar
+Applied Maths - 4:G V Kumbhojkar / J N Wartikar
+Applied Maths IV:G V Kumbhojkar / J N WartikarG V Kumbhojkar / J N Wartikar
+Applied Maths - IV:G V Kumbhojkar / J N Wartikar
+Computer Networks:A. S. Tanenbaum,”Computer Networks”, 4th edition, Prentice Hall
+CN:A. S. Tanenbaum,”Computer Networks”, 4th edition, Prentice Hall
+Computer Organization and Architecture:William Stallings, “Computer Organization and Architecture
+COA:William Stallings, “Computer Organization and Architecture: Designing for Performance”,Eighth Edition, Pearson. 
+Automata Theory: Kavi Mahesh, “Theory of Computation A Problem Solving Approach”, Wiley India
+AT: Kavi Mahesh, “Theory of Computation A Problem Solving Approach”, Wiley India
+Web Programming:“Web Technologies: Black Book”, Dreamtech publication
+WP:“Web Technologies: Black Book”, Dreamtech publication
+Information Theory and Coding:“Information Theory, Coding and Cryptography” Ranjan Bose, Tata McGrawHill
+ITC:“Information Theory, Coding and Cryptography” Ranjan Bose, Tata McGrawHill
+Data Structures:Data Structures A Pseudocode Approach with C, Richard F. Gilberg & Behrouz A. Forouzan,
+Data Structures and Algorithms:Data Structures A Pseudocode Approach with C, Richard F. Gilberg & Behrouz A. Forouzan,g
+Data Structure and Algorithm Analysis:Data Structures A Pseudocode Approach with C, Richard F. Gilberg & Behrouz A.Forouzan
+Database Management:Korth, Slberchatz,Sudarshan, :”Database System Concepts”, 6th Edition, McGraw – Hill
+Database Management System: Korth, Slberchatz,Sudarshan, :”Database System Concepts”, 6th Edition, McGraw – Hill
+DBMS:Korth, Slberchatz,Sudarshan, :”Database System Concepts”, 6th Edition, McGraw – Hill
+DSA:Data Structures A Pseudocode Approach with C, Richard F. Gilberg & Behrouz A. Forouzan,second edition,CENGAGE Learning
+DSAA:Data Structures A Pseudocode Approach with C, Richard F. Gilberg & Behrouz A Forouzan, second edition,CENGAGE learning
+Java:Java , the complete reference by Herbert Schildt
+Applied Mathematics III:G V Kumbhojkar / J N Wartikar
+Applied Mathematics - III:G V Kumbhojkar / J N Wartikar
+Applied Mathematics 3:G V Kumbhojkar / J N Wartikar
+Applied Mathematics - 3:G V Kumbhojkar / J N Wartikar
+Maths 3:G V Kumbhojkar / J N WartikarG V Kumbhojkar / J N Wartikar
+Maths - 3:G V Kumbhojkar / J N Wartikar
+Maths III:G V Kumbhojkar / J N Wartikar
+Maths -III:G V Kumbhojkar / J N Wartikar
+M3:G V Kumbhojkar / J N Wartikar
+Applied Maths 3:G V Kumbhojkar / J N Wartikar
+Applied Maths 3- 4:G V Kumbhojkar / J N Wartikar
+Applied Maths III:G V Kumbhojkar / J N WartikarG V Kumbhojkar / J N Wartikar
+Applied Maths - III:G V Kumbhojkar / J N Wartikar
+Analog and Digital Circuits: R. P. Jain, “Modern Digital Electronics”, Tata McGraw Hill
+ADC: R. P. Jain, “Modern Digital Electronics”, Tata McGraw Hill
+Object Oriented Programming Methodology:Java , the complete reference by Herbert Schildt
+OOPM:Java , the complete reference by Herbert Schildt
+Principles of Analog and Digital Communication:
+PADC: Simon Haykin, Michael Moher, Introduction to Analog & Digital Communications, Wiley India
+Operating Systems:Modern Operating Systems, Tanenbaum, IIIrd Edition, PHI
+Operating System:Modern Operating Systems, Tanenbaum, IIIrd Edition, PHI
+Microcontroller::The 8051 microcontroller & Embedded systems, M. A. Mazidi, J. G. Mazidi,R. D. McKinlay,Pearson
+Microcontroller and Embedded Systems::The 8051 microcontroller & Embedded systems, M. A. Mazidi, J. G. Mazidi	
+Advanced Database Management Systems:Elmasri and Navathe, “Fundamentals of Database Systems”, 6th Edition, PEARSON
+Open Source Technologies:Linux Lab - Open source Technology : Ambavade -Dreamtech
+Open Source Technology:Linux Lab - Open source Technology : Ambavade -Dreamtech
+Computer Graphics and Virtual Reality:R. K Maurya, “Computer Graphics with Virtual Reality”, Wiley India
+Business Communication and Ethics:Heta Murphy, “Effective Business Communication” , Mc Graw Hill
+OS:Modern Operating Systems, Tanenbaum, IIIrd Edition, PHI
+MCES:The 8051 microcontroller & Embedded systems, M. A. Mazidi, J. G. Mazidi,R. D. McKinlay, Pearson
+ADBMS:Elmasri and Navathe, “Fundamentals of Database Systems”, 6th Edition, PEARSON Education.
+CG:R. K Maurya, “Computer Graphics with Virtual Reality”, Wiley India
+OST:Linux Lab - Open source Technology : Ambavade -Dreamtech
+CGVRS:R. K Maurya, “Computer Graphics with Virtual Reality”, Wiley India
+BCE:Heta Murphy, “Effective Business Communication” , Mc Graw Hill
+Cloud Computing:Cloud Computing Principles and Paradigms, Rajkumar Buyya Wiley 
+CC:Cloud Computing Principles and Paradigms, Rajkumar Buyya Wiley 	
+E-Commerce & E-Business:E-Commerce Fundamentals and application (Henry Chan) Wiley publication 
+E-Business:E-Commerce Fundamentals and application (Henry Chan) Wiley publication 
+E-Commerce:E-Commerce Fundamentals and application (Henry Chan) Wiley publication 
+ECOM:E-Commerce Fundamentals and application (Henry Chan) Wiley publication 
+ECOMM:E-Commerce Fundamentals and application (Henry Chan) Wiley publication 
+Usability:Usability Engineering by Jacob Nielson, Morgan Kaufmann, Academic Press.
+Usability Engineering:Usability Engineering by Jacob Nielson, Morgan Kaufmann, Academic Press.
+Intelligent Systems:Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach, 2nd Edition
+IS:Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach, 2nd Edition
+Intelligent System:Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach, 2nd Edition
+AI:Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach, 2nd Edition
+Artificial Intelligence:Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach, 2nd Edition
+WT:Modern wireless communication systems: by Simon Haykin, Michael Moher, adapted by David Koilpillai
+Wireless Technology:Modern wireless communication systems: by Simon Haykin, Michael Moher, adapted by David Koilpillai
+Wireless Technologies:Modern wireless communication systems: by Simon Haykin, Michael Moher, adapted by David Koilpillai
+SPM:Jack T. Marchewka, Information Technology Project Management
+Software Project Management:Jack T. Marchewka, Information Technology Project Management

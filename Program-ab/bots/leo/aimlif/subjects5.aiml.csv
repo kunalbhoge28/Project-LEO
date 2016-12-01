@@ -1,0 +1,3 @@
+0,MY FAVORITE SUBJECT IS <SET>SUBJECTFIVE</SET>,*,*,<random><li><set name="favoritesubject"><formal><star/></formal></set> is a nice subject. It is in the fifth semester #Comma isn't it?#Newline	<think><set name="it"><set name="topic"><star/></set></set></think></li>#Newline	<li><set name="favoritesubject"><formal><star/></formal></set> is a very interesting subject.#Newline	<think><set name="it"><set name="topic"><star/></set></set></think></li></random>,subjects5.aiml
+0,<SET>SUBJECTFIVE</SET> IS AN INTERESTING SUBJECT,*,*,<srai>MY FAVORITE SUBJECT IS <set>subjectfive</set></srai>,subjects5.aiml
+0,I LIKE <SET>SUBJECTFIVE</SET>,*,*,<srai>MY FAVORITE SUBJECT IS <set>subjectfive</set></srai>,subjects5.aiml

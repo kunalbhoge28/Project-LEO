@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+	<!-- Free software (c) 2001-2003 ALICE A.I. Foundation.  -->
+	<!-- This program is open source code released under -->
+	<!-- the terms of the GNU General Public License   -->
+	<!-- as published by the Free Software Foundation.  -->
+	<!-- Complies with AIML 1.0 Tag Set Specification -->
+	<!-- as adopted by the ALICE A.I. Foundation. -->
+	<!-- Learn.aiml written by Square Bear on 6th March 2009 -->
+	<!-- This AIML allows users to teach your bot -->
+	<!-- http://www.square-bear.co.uk -->
+	
+<aiml>
+	<category>
+   <pattern>RESULTS</pattern>
+   <template>##http://vesit.edu/information-technology/</template>
+	</category>
+
+	<category>
+   <pattern>STAFF</pattern>
+   <template>##http://vesit.edu/departments/under-graduate-courses/information-technology/staff/</template>
+	</category>
+
+	<category>
+   <pattern>SYLLABUS</pattern>
+   <template>##http://vesit.edu/departments/under-graduate-courses/information-technology/</template>
+	</category>
+
+
+	<category>
+		<pattern>* results of IT</pattern>
+		<template><srai>RESULTS</srai></template> 
+	</category>
+	<category>
+		<pattern>* result of IT</pattern>
+		<template><srai>RESULTS</srai></template> 
+	</category>
+	<category>
+		<pattern>* result of Information Technology</pattern>
+		<template><srai>RESULTS</srai></template> 
+	</category>
+	<category>
+		<pattern>* results of Information Technology</pattern>
+		<template><srai>RESULTS</srai></template> 
+	</category>
+	<category>
+		<pattern>* staff of IT</pattern>
+		<template><srai>STAFF</srai></template> 
+	</category>
+	<category>
+		<pattern>* staff of Information Technology</pattern>
+		<template><srai>STAFF</srai></template> 
+	</category>
+	<category>
+		<pattern>* faculty of IT</pattern>
+		<template><srai>STAFF</srai></template> 
+	</category>
+	<category>
+		<pattern>* faculty of Information Technology</pattern>
+		<template><srai>STAFF</srai></template> 
+	</category>
+	<category>
+		<pattern>* syllabus of IT</pattern>
+			<template><srai>SYLLABUS</srai></template> 
+	</category>
+	<category>
+		<pattern>* syllabus of Information Technology</pattern>
+			<template><srai>SYLLABUS</srai></template> 
+	</category>
+	
+	
+
+</aiml>

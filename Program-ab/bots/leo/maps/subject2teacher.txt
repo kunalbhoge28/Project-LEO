@@ -1,0 +1,110 @@
+Neural Networks:Asma Parveen
+Soft Computing:Asma Parveen
+Software Testing:Shalu Chopra
+Software Testing and Quality Assurance:Shalu Chopra
+STQA:Shalu Chopra
+SC:Asma Parveen
+BDA:Vijaylakshmi Murlidhar
+Big Data Analytics:Vijaylakshmi Murlidhar
+CSM:Charusheela Nehete
+Computer Simulation and Management:Charusheela Nehete
+SNMR:Manoj Sabnis
+Storage Networks:Manoj Sabnis
+Storage Network Management and Retrieval:Manoj Sabnis
+Software Engineering:Amit Singh
+SE:Amit Singh
+Distributed Systems:Roopkala Ravindran
+DS:Roopkala Ravindran
+System and Web Security:Smita Jangale
+SWS:Smita Jangale
+Data Mining and Business Intelligence:Asha Bharambe
+DMBI:Asha Bharambe
+Advance Internet Technology:Pooja Shetty
+Advance Internet Technologies:Pooja Shetty
+AIT:Pooja Shetty
+Applied Mathematics IV:Amruta
+Applied Mathematics - IV:Amruta
+Applied Mathematics 4:Amruta
+Applied Mathematics - 4:Amruta
+Maths 4:Amruta
+Maths - 4:Amruta
+Maths IV:Amruta
+Maths -IV:Amruta
+M4:Amruta
+Applied Maths 4:Amruta
+Applied Maths - 4:Amruta
+Applied Maths IV:Amruta
+Applied Maths - IV:Amruta
+Computer Networks:Vidya Pujari
+CN:Vidya Pujari
+Computer Organization and Architecture:Asma Parveen
+COA:Asma Parveen
+Automata Theory:Charusheela Nehete
+AT:Charusheela Nehete
+Web Programming:Jayshree Hajgude
+WP:Jayshree Hajgude
+Information Theory and Coding:Sukanya Roychowdhary
+ITC:Sukanya Roychowdhary
+Data Structures:Roopkala Ravindran
+Data Structures and Algorithms:Roopkala Ravindran
+Data Structure and Algorithm Analysis:Roopkala Ravindran
+Database Management:Jayshree Hajgude
+Database Management System:Jayshree Hajgude
+DBMS:Jayshree Hajgude
+DSA:Roopkala Ravindran
+DSAA:Roopkala Ravindran
+Java:Amit Singh
+Applied Mathematics III:Amruta
+Applied Mathematics - III:Amruta
+Applied Mathematics 3:Amruta
+Applied Mathematics - 3:Amruta
+Maths 3:Amruta
+Maths - 3:Amruta
+Maths III:Amruta
+Maths -III:Amruta
+M3:Amruta
+Applied Maths 3:Amruta
+Applied Maths - 3:Amruta
+Applied Maths III:Amruta
+Applied Maths - III:Amruta
+Analog and Digital Circuits:Chintan Jethwa
+ADC:Chintan Jethwa
+Object Oriented Programming Methodology:Amit Singh
+OOPM:Amit Singh
+Principles of Analog and Digital Communication:Shobhit Khandare
+PADC:Shobhit Khandare
+Operating Systems:Amit Singh
+Operating System:Amit Singh
+Microcontroller:Gopal
+Microcontroller and Embedded Systems:Gopal
+Advanced Database Management Systems:Jayshree Hajgude 
+Open Source Technologies:Jayshree Hajgude
+Open Source Technology:Jayshree Hajgude
+Computer Graphics and Virtual Reality:Asha Bharambe
+Business Communication and Ethics:Pooja Kundu
+OS:Amit Singh
+MCES:Gopal
+ADBMS:Jayshree Hajgude
+CG:Asha Bharambe
+OST:Jayshree Hajgude
+CGVRS:Asha Bharambe
+BCE:Pooja Kundu
+Cloud Computing:Manoj Sabnis
+CC:Manoj Sabnis
+E-Commerce & E-Business:Shanta Sondur
+E-Business:Shanta Sondur
+E-Commerce:Shanta Sondur
+ECOM:Shanta Sondur
+ECOMM:Shanta Sondur
+Usability:Shalu Chopra
+Usability Engineering:Shalu Chopra
+Intelligent Systems:Vijaylakshmi Murlidhar
+IS:Vijaylakshmi Murlidhar
+Intelligent System:Vijaylakshmi Murlidhar
+AI:Vijaylakshmi Murlidhar
+Artificial Intelligence:Vijaylakshmi Murlidhar
+WT:Smita Jangale
+Wireless Technology:Smita Jangale
+Wireless Technologies:Smita Jangale
+SPM:Charusheela Nehete
+Software Project Management:Charusheela Nehete

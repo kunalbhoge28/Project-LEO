@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+	<!-- Free software (c) 2001-2003 ALICE A.I. Foundation.  -->
+	<!-- This program is open source code released under -->
+	<!-- the terms of the GNU General Public License   -->
+	<!-- as published by the Free Software Foundation.  -->
+	<!-- Complies with AIML 1.0 Tag Set Specification -->
+	<!-- as adopted by the ALICE A.I. Foundation. -->
+	<!-- Learn.aiml written by Square Bear on 6th March 2009 -->
+	<!-- This AIML allows users to teach your bot -->
+	<!-- http://www.square-bear.co.uk -->
+	
+<aiml>
+	
+	<category>
+		<pattern>Who teaches *</pattern>
+		<template>Mr/Mrs <map name='subject2teacher'><star/></map></template> 
+	</category>
+	
+	<category>
+		<pattern>Who is the teacher of *</pattern>
+		<template><srai>Who teaches <star/></srai></template> 
+	</category>
+
+	<category>
+		<pattern>Who is the teacher of </pattern>
+		<template>Which subject?</template> 
+	</category>
+	<category>
+		<pattern>*</pattern>	
+		<template>Mr/Mrs <map name='subject2teacher'><star/></map></template> 
+	</category>
+
+	<category>
+		<pattern>Who teaches </pattern>
+		<template>Which subject?</template> 
+	</category>
+	<category>
+		<pattern>*</pattern>
+		<template>Mr/Mrs <map name='subject2teacher'><star/></map></template> 
+	</category>
+
+	<category>
+		<pattern>* is taught by</pattern>
+		<template>Mr/Mrs <map name='subject2teacher'><star/></map></template> 
+	</category>
+
+	<category>
+		<pattern>* is taught by which professor</pattern>
+		<template>Mr/Mrs <map name='subject2teacher'><star/></map></template> 
+	</category>
+
+	<category>
+		<pattern>* is taught by which teacher</pattern>
+		<template>Mr/Mrs <map name='subject2teacher'><star/></map></template> 
+	</category>
+
+
+	<category>
+		<pattern>* subject is taught by</pattern>
+		<template>Mr/Mrs <map name='subject2teacher'><star/></map></template> 
+	</category>
+
+
+	<category>
+		<pattern>The subject * is taught by</pattern>
+		<template>Mr/Mrs <map name='subject2teacher'><star/></map></template> 
+	</category>
+
+	<category>
+		<pattern>Subject * is taught by</pattern>
+		<template>Mr/Mrs <map name='subject2teacher'><star/></map></template> 
+	</category>
+
+	<!-- -->
+	<category>
+		<pattern>Who teaches the subject *</pattern>
+		<template>Mr/Mrs <map name='subject2teacher'><star/></map></template> 
+	</category>
+	
+	<category>
+		<pattern>Who teaches the subject</pattern>
+		<template>Which subject?</template> 
+	</category>
+	<category>
+		<pattern>*</pattern>
+		<template>Mr/Mrs <map name='subject2teacher'><star/></map></template> 
+	</category>
+
+
+	
+	
+
+
+	
+</aiml>
